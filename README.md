@@ -10,8 +10,8 @@ Hyprland dotfiles optimized for 2in1 laptops and phones
 # Roadmap
 - [x] Working hyprland setup
 - [~] Working touchscreen gestures
-- [~] Working waybar (should be replaced from ashell to waybar)
-- [ ] Working app menu _For now it has issues with touchscreen devices _
+- [~] Working waybar _(should be replaced from ashell to waybar)_
+- [ ] Working app menu _For now it has issues with touchscreen devices_
 - [ ] Common Hyprland fixes
     - [ ] Fix QT theme
     - [ ] Fix mouse cursor
