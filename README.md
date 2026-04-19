@@ -39,6 +39,12 @@ meson
 ninja
 ```
 
+## Recommended apps
+```
+# Wallpaper selection
+waypaper
+```
+
 
 # Roadmap
 - [x] Working hyprland setup
