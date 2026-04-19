@@ -15,7 +15,7 @@ Hyprland dotfiles optimized for 2in1 laptops and phones
 
 **GPU** : Yes
 
-RAM : At least 2Gb, 4Gb is the minimum reccomended to be usable
+**RAM** : At least 2Gb, 4Gb is the minimum reccomended to be usable
 
 ## Dependencies
 *Note : this might not include all recursive dependencies*
