@@ -10,8 +10,11 @@ Hyprland dotfiles optimized for 2in1 laptops and phones
 # Requirements and dependencies
 ## Requirements
 *Note : requirements can change at any moment*
+
 **CPU** : At least 2 cores, AMD64 or ARM64
+
 **GPU** : Yes
+
 RAM : At least 2Gb, 4Gb is the minimum reccomended to be usable
 
 ## Dependencies
