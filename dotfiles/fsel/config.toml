@@ -1,0 +1,18 @@
+# Colors
+highlight_color = "Red"
+cursor = "█"
+
+# App launcher
+terminal_launcher = "kitty"
+
+# Pin/favorite settings (root-level UI options)
+pin_color = "rgb(255,0,0)"       # Color for pin icon (red)
+pin_icon = "📌"                     # Icon for pinned apps
+
+[app_launcher]
+filter_desktop = true              # Filter apps by desktop environment
+filter_actions = false             # Keep desktop actions visible; set true to hide them
+list_executables_in_path = false   # Show CLI tools from $PATH
+match_mode = "fuzzy"               # "fuzzy" or "exact"
+ranking_mode = "frecency"          # "frecency", "recency", or "frequency"
+pinned_order = "ranking"           # "ranking", "alphabetical", "oldest_pinned", "newest_pinned"

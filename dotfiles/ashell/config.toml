@@ -1,0 +1,28 @@
+position = "Top"
+layer = "Top"
+
+[modules]
+left = [ "Workspaces" ]
+center = [ "WindowTitle", "MediaPlayer" ]
+right = [ "Tray", "SystemInfo", [ "Tempo", "Settings" ] ]
+
+[appearance]
+style = "Islands"
+success_color = "#ff0000"
+text_color = "#ffffff"
+workspace_colors = [ "#ff0000", "#ff0000", "#ff0000" ]
+
+
+[appearance.background_color]
+base = "#000000"
+strong = "#ff0000"
+weak = "#ff0000"
+text = "#ffffff"
+
+[appearance.primary_color]
+base = "#ff0000"
+text = "#ffffff"
+
+[appearance.secondary_color]
+base = "#ff0000"
+strong = "#ff0000"
