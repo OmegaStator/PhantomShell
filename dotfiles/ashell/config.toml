@@ -8,9 +8,9 @@ right = [ "Tray", "SystemInfo", [ "Tempo", "Settings" ] ]
 
 [appearance]
 style = "Islands"
-success_color = "#ff0000"
+success_color = "#ffffff"
 text_color = "#ffffff"
-workspace_colors = [ "#ff0000", "#ff0000", "#ff0000" ]
+workspace_colors = [ "#ff0000", "#ffffff", "#ff0000" ]
 
 
 [appearance.background_color]
