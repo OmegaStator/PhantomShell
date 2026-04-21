@@ -33,6 +33,7 @@ app2unit
 hyprgrass
 glm
 iio-hyprland
+dunst
 
 # Build dependencies for hyprgrass
 meson
@@ -51,6 +52,7 @@ waypaper
 - [x] Working touchscreen gestures
 - [x] Working waybar _(using ashell)_
 - [x] Working app menu _(using fsel on kitty)_
+- [x] Working notifications
 - [ ] Common Hyprland fixes
     - [x] Fix QT theme _(edits need to be made through qt6ct)_
     - [ ] Fix mouse cursor theme

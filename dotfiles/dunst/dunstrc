@@ -1,0 +1,11 @@
+[global]
+origin = top-center
+offset = (0, 10)
+format = <b>%a : %s</b>\n%b
+icon_theme = breeze, Adwaita
+
+corner_radius = 10
+
+separator_color="#FF0000"
+background = "#000000"
+frame_color = "#FF0000"
