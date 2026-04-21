@@ -48,7 +48,7 @@ waypaper
 
 # Roadmap
 - [x] Working hyprland setup
-- [~] Working touchscreen gestures
+- [x] Working touchscreen gestures
 - [x] Working waybar _(using ashell)_
 - [x] Working app menu _(using fsel on kitty)_
 - [ ] Common Hyprland fixes
